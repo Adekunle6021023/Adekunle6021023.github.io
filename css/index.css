@@ -70,7 +70,7 @@ body {
 }
 
 .main-text-box  small {
-    font-family: "Yellowtail Thin", cursive;
+    font-family: "Yellowtail", cursive;
     font-size: 1rem;
     color: orange;
     padding: 1rem;
@@ -124,7 +124,7 @@ body {
 }
 
 .equipment-container-header small {
-    font-family: "Yellowtail Thin", monospace;
+    font-family: "Yellowtail", monospace;
     font-weight: 100;
     font-size: 1rem;
 }
